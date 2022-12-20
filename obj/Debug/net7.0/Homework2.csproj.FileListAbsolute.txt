@@ -1,0 +1,15 @@
+C:\C#\C#Seminars\Homework2\bin\Debug\net7.0\Homework2.exe
+C:\C#\C#Seminars\Homework2\bin\Debug\net7.0\Homework2.deps.json
+C:\C#\C#Seminars\Homework2\bin\Debug\net7.0\Homework2.runtimeconfig.json
+C:\C#\C#Seminars\Homework2\bin\Debug\net7.0\Homework2.dll
+C:\C#\C#Seminars\Homework2\bin\Debug\net7.0\Homework2.pdb
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\Homework2.csproj.AssemblyReference.cache
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\Homework2.AssemblyInfoInputs.cache
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\Homework2.AssemblyInfo.cs
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\Homework2.csproj.CoreCompileInputs.cache
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\Homework2.dll
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\refint\Homework2.dll
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\Homework2.pdb
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\Homework2.genruntimeconfig.cache
+C:\C#\C#Seminars\Homework2\obj\Debug\net7.0\ref\Homework2.dll
